@@ -8,14 +8,14 @@ const ProductList = () => {
             <Link href="/product" className="w-full flex flex-col gap-4 sm:w-[45%] lg:w-[22%]">
                 <div className="relative w-full h-80">
                     <Image
-                        src="https://images.pexels.com/photos/30922280/pexels-photo-30922280/free-photo-of-sugary-donuts-on-wooden-board-in-warm-light.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                        src="https://images.pexels.com/photos/57416/cat-sweet-kitty-animals-57416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                         alt=""
                         fill
                         sizes="25vw"
                         className="absolute object-cover rounded-md z-10 hover:opacity-0 transition-opacity easy duration-500" />
                     <Image
-                        src="https://images.pexels.com/photos/30518529/pexels-photo-30518529/free-photo-of-lovebirds-cuddling-on-a-wooden-branch.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-                        alt=""
+                        src="https://images.pexels.com/photos/2071873/pexels-photo-2071873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                         alt=""
                         fill
                         sizes="25vw"
                         className="absolute object-cover rounded-md" />
@@ -27,17 +27,17 @@ const ProductList = () => {
                 <div className="text-sm text-gray-500">Description</div>
                 <button className="rounded-2xl ring-1 ring-watermelon text-watermelon py-2 px-4 w-max text-xs hover:bg-watermelon hover:text-white">Add Cart</button>
             </Link>
-             <Link href="/product" className="w-full flex flex-col gap-4 sm:w-[45%] lg:w-[22%]">
+            <Link href="/product" className="w-full flex flex-col gap-4 sm:w-[45%] lg:w-[22%]">
                 <div className="relative w-full h-80">
                     <Image
-                        src="https://images.pexels.com/photos/30922280/pexels-photo-30922280/free-photo-of-sugary-donuts-on-wooden-board-in-warm-light.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-                        alt=""
+                        src="https://images.pexels.com/photos/20787/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                         alt=""
                         fill
                         sizes="25vw"
                         className="absolute object-cover rounded-md z-10 hover:opacity-0 transition-opacity easy duration-500" />
                     <Image
-                        src="https://images.pexels.com/photos/30518529/pexels-photo-30518529/free-photo-of-lovebirds-cuddling-on-a-wooden-branch.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-                        alt=""
+                        src="https://images.pexels.com/photos/1056251/pexels-photo-1056251.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                         alt=""
                         fill
                         sizes="25vw"
                         className="absolute object-cover rounded-md" />
@@ -49,16 +49,16 @@ const ProductList = () => {
                 <div className="text-sm text-gray-500">Description</div>
                 <button className="rounded-2xl ring-1 ring-watermelon text-watermelon py-2 px-4 w-max text-xs hover:bg-watermelon hover:text-white">Add Cart</button>
             </Link>
-             <Link href="/product" className="w-full flex flex-col gap-4 sm:w-[45%] lg:w-[22%]">
+            <Link href="/product" className="w-full flex flex-col gap-4 sm:w-[45%] lg:w-[22%]">
                 <div className="relative w-full h-80">
                     <Image
-                        src="https://images.pexels.com/photos/30922280/pexels-photo-30922280/free-photo-of-sugary-donuts-on-wooden-board-in-warm-light.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-                        alt=""
+                        src="https://images.pexels.com/photos/208984/pexels-photo-208984.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                         alt=""
                         fill
                         sizes="25vw"
                         className="absolute object-cover rounded-md z-10 hover:opacity-0 transition-opacity easy duration-500" />
                     <Image
-                        src="https://images.pexels.com/photos/30518529/pexels-photo-30518529/free-photo-of-lovebirds-cuddling-on-a-wooden-branch.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                        src="https://images.pexels.com/photos/69932/tabby-cat-close-up-portrait-69932.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
                         alt=""
                         fill
                         sizes="25vw"
@@ -71,16 +71,16 @@ const ProductList = () => {
                 <div className="text-sm text-gray-500">Description</div>
                 <button className="rounded-2xl ring-1 ring-watermelon text-watermelon py-2 px-4 w-max text-xs hover:bg-watermelon hover:text-white">Add Cart</button>
             </Link>
-             <Link href="/product" className="w-full flex flex-col gap-4 sm:w-[45%] lg:w-[22%]">
+            <Link href="/product" className="w-full flex flex-col gap-4 sm:w-[45%] lg:w-[22%]">
                 <div className="relative w-full h-80">
                     <Image
-                        src="https://images.pexels.com/photos/30922280/pexels-photo-30922280/free-photo-of-sugary-donuts-on-wooden-board-in-warm-light.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                        src="https://images.pexels.com/photos/774731/pexels-photo-774731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
                         alt=""
                         fill
                         sizes="25vw"
                         className="absolute object-cover rounded-md z-10 hover:opacity-0 transition-opacity easy duration-500" />
                     <Image
-                        src="https://images.pexels.com/photos/30518529/pexels-photo-30518529/free-photo-of-lovebirds-cuddling-on-a-wooden-branch.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                        src="https://images.pexels.com/photos/1543793/pexels-photo-1543793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
                         alt=""
                         fill
                         sizes="25vw"
@@ -93,7 +93,7 @@ const ProductList = () => {
                 <div className="text-sm text-gray-500">Description</div>
                 <button className="rounded-2xl ring-1 ring-watermelon text-watermelon py-2 px-4 w-max text-xs hover:bg-watermelon hover:text-white">Add Cart</button>
             </Link>
-            
+
         </div>
     )
 }

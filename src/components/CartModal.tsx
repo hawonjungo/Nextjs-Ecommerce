@@ -19,7 +19,7 @@ const CartModal = () => {
         <div className="flex gap-4">
           <Image 
             className="object-cover rounded-md"
-            src="https://images.pexels.com/photos/30922280/pexels-photo-30922280/free-photo-of-sugary-donuts-on-wooden-board-in-warm-light.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            src="https://images.pexels.com/photos/2194261/pexels-photo-2194261.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             alt=""
             width={72}
             height={96} />
@@ -46,7 +46,7 @@ const CartModal = () => {
         <div className="flex gap-4">
           <Image 
             className="object-cover rounded-md"
-            src="https://images.pexels.com/photos/30922280/pexels-photo-30922280/free-photo-of-sugary-donuts-on-wooden-board-in-warm-light.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            src="https://images.pexels.com/photos/127028/pexels-photo-127028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             alt=""
             width={72}
             height={96} />
